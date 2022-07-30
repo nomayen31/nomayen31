@@ -1,7 +1,6 @@
 ### Hi there 👋, i'm Nomayen Hossain Ohin
 #### Web Developer | Programmer | Quick Learner
-![Web Developer | Programmer | Quick Learner](https://www.linkedin.com/in/nomayen/overlay/background-image/)
-
+[<img src='https://www.linkedin.com/in/nomayen/overlay/background-image/' alt='github' height='40'>]
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PHP
