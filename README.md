@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Nomayen Hossain Ohin
 #### Web Developer | Programmer | Quick Learner
-![Web Developer | Programmer | Quick Learner](https://media-exp1.licdn.com/dms/image/C4D16AQG30W64_6JTZA/profile-displaybackgroundimage-shrink_200_800/0/1638213021642?e=1664409600&v=beta&t=3Df3_UTXr2Yc1dbG0dUkoR1_Kj4AaSsOf8MkzK4J1lc)
+![Web Developer | Programmer | Quick Learner]([https://i.ibb.co/dp7JM6R/linkdin-cover-1.jpg])
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
