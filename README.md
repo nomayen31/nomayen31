@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ <img height="200" src="https://media0.giphy.com/media/l0HlVBFATu9bCVQIg/giphy.gif?cid=ecf05e47mkd8lb60wqe78elfvotzuqfnmcvcx1wmjcqyg5nc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -49,13 +49,7 @@
 
 ###
 
-###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/l0HlVBFATu9bCVQIg/giphy.gif?cid=ecf05e47mkd8lb60wqe78elfvotzuqfnmcvcx1wmjcqyg5nc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
 
 ###
 
