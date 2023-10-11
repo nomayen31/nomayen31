@@ -78,6 +78,7 @@
 
 </td><td valign="top" width="33%">
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="left" height="" width="300" />  
 
 
 </td></tr></table>  
@@ -135,6 +136,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nomayen31&&style=flat-square" align="center" />
 </div>  
+  
+
+![]()  
   
 
 <br/>  
