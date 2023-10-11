@@ -35,7 +35,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.0.0
+            
 
 ###
 
