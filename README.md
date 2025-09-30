@@ -1,115 +1,76 @@
 <div align="center">
-<img src="https://i.ibb.co/QKwKNmd/1672163259063.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Nomayen Hossain,  a full-time react developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Programming Hero ](https://github.com/programminghero1)  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-
+    <a href="https://github.com/nomayen31">
+        <img src="https://i.ibb.co.com/sdB4sXhQ/1672163259063.jpg" alt="Nomayen Hossain Profile Picture" width="100%" style="border-radius: 50%; border: 6px solid #4B0082; box-shadow: 0 0 20px rgba(75, 0, 130, 0.8);" />
+    </a>
+    <h1 style="color: #00D8FF; margin-bottom: 5px;">Nomayen Hossain: React Developer & MERN Architect </h1>
+    <p style="font-size: 1.2em; color: #ADADAD; font-style: italic; margin-top: 5px;">
+        Building scalable, pixel-perfect web experiences since 2019. Full-time remote React expert.
+    </p>
+    <br>
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 25px;">
+        <a href="https://github.com/nomayen31">
+            <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nomayen31&layout=compact&theme=tokyonight&hide_border=true&card_width=300&langs_count=6" alt="Top Languages" />
+        </a>
+    </div>
 </div>
 
-</td><td valign="top" width="33%">
+### About Me
 
+- 💻 **Role:** Full-time **React Developer** working remotely since 2019.
+- 🔭 **Current Focus:** Leveling up at [PPC Rockers](https://ppcrockers.com/).
+- 💡 **Ask Me Anything:** I'm your go-to for anything in the **MERN stack** (MongoDB, Express, React, Node.js) and related technologies!
+- ⚡ **Fun Fact:** I'm a rebel who chooses **tabs over spaces**—the indentation wars continue!
 
+<br/>
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>    
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+## Technical Arsenal 🛠️
 
-</div>
+A well-rounded developer, comfortable across the entire stack.
 
-</td><td valign="top" width="33%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="left" height="" width="300" />  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/nomayen31" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/nomayen31" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nomayen31" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/nomayenhossainohin" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nomayen._.31" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/nomayen31" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/nomayen31" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" height="150" style="float: right; margin: 0 0 15px 20px; border-radius: 8px;" />
 
-<br/>  
+### Frontend & UI/UX Mastery
+| Tech | Icon |
+| :--- | :--- |
+| **Primary:** | React, Redux, Next.js |
+| **Styling:** | Tailwind CSS, Sass, Bootstrap, CSS3, HTML5 |
+| **Design/Tooling:** | Figma, Illustrator, Chart.js, Electron |
+| **Languages:** | JavaScript, TypeScript |
 
-# 📊 GitHub Stats:
-<div align=center>
-  <img width=410 src="https://streak-stats.demolab.com/?user=nomayen31&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nomayen31&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+### Backend, Data & Tools
+| Tech | Icon |
+| :--- | :--- |
+| **Server-Side:** | Node.js, Express.js |
+| **Databases:** | MongoDB, MySQL |
+| **OS/VCS:** | Linux, Git (GitHub) |
+| **Other:** | Python |
 </div>
 
+<br clear="both"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Developer Statistics 📊
+
+A glimpse into my coding journey and commitment.
+
+<div align="center">
+  <a href="https://github.com/nomayen31"><img src="https://github-readme-stats-salesp07.vercel.app/api?username=nomayen31&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" /></a>
+  <a href="https://github.com/nomayen31"><img src="https://streak-stats.demolab.com/?user=nomayen31&count_private=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" /></a>
+</div>
+
+---
+
+## Let's Connect & Collaborate! 🤝
+
+Find me across the web—I'm always open to discussing new tech, projects, or just a friendly chat.
+
+<div align="center">
+  <a href="https://github.com/nomayen31" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" /></a>
+  <a href="https://linkedin.com/in/nomayen31" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" /></a>
+  <a href="https://twitter.com/nomayen31" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px;" /></a>
+  <a href="https://dev.to/nomayen31" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" style="margin: 5px;" /></a>
+  <a href="https://stackoverflow.com/users/nomayen31" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin: 5px;" /></a>
+  <a href="https://medium.com/nomayen31" target="_blank"><img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin: 5px;" /></a>
+</div>
