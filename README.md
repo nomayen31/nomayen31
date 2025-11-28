@@ -15,11 +15,38 @@
 </div>
 
 ### About Me
+# Hi there 👋
 
-- 💻 **Role:** Full-time **React Developer** working remotely since 2019.
-- 🔭 **Current Focus:** Leveling up at [PPC Rockers](https://ppcrockers.com/).
-- 💡 **Ask Me Anything:** I'm your go-to for anything in the **MERN stack** (MongoDB, Express, React, Node.js) and related technologies!
-- ⚡ **Fun Fact:** I'm a rebel who chooses **tabs over spaces**—the indentation wars continue!
+I'm currently growing as a **Backend Developer** at **Softvence Agency**.
+
+---
+
+## 🔭 My Focus & Expertise
+
+I bring a unique blend of frontend and backend experience, specializing in the modern JavaScript ecosystem.
+
+### 🛠️ Current Backend Stack
+My current focus is on building **high-performance applications** using:
+
+* **NestJS**
+* **Node.js**
+* **Prisma**
+* **PostgreSQL**
+* **MERN Stack** (MongoDB, Express, React, Node.js)
+
+### 💡 What I Do Best
+I am your go-to person for the full JavaScript stack, including:
+
+* **React** & **Next.js** Development (I was a Full-time React Developer working remotely since 2019)
+* **Node.js** & **Express**
+* **API Development**
+* **Backend Architecture**
+
+---
+
+## ⚡ Fun Fact
+
+Still proudly on **Team Tabs**. Yes — the indentation war continues! 😎
 
 <br/>
 
