@@ -94,6 +94,15 @@ A glimpse into my coding journey and commitment.
 </div>
 
 ---
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/nomayen31/nomayen31/blob/output/github-contribution-grid-snake.svg" alt="snake-game-animation" width="100%"/>
+</div>
+
+---
+
 
 ## 📧 Let's Connect & Collaborate!
 
